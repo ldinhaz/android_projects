@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trường THSP</string>
+    <string name="tkb_title">THỜI KHÓA BIỂU</string>
+    <string name="ip">192.168.0.100</string>
+    <string name="db_name">Diem_Danh_HS</string>
+    <string name="sql_user">leo</string>
+    <string name="sql_pw">123123</string>
+</resources>
